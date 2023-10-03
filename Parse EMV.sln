@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse EMV", "Parse EMV\Parse EMV.csproj", "{2C922C81-3FA1-4A31-8F64-864049B7E98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C922C81-3FA1-4A31-8F64-864049B7E98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C922C81-3FA1-4A31-8F64-864049B7E98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C922C81-3FA1-4A31-8F64-864049B7E98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C922C81-3FA1-4A31-8F64-864049B7E98E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F6269FD-316D-4D6E-9A44-296C972F6DBB}
+	EndGlobalSection
+EndGlobal
