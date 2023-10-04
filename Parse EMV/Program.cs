@@ -15,7 +15,7 @@ class Program
 {
     static void Main()
     {
-        string filePath = "C:\\zoo\\emv-tags.txt";
+        string filePath = "emv-tags.txt";
 
         try
         {
